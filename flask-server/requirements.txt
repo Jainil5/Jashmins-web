@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+flask
+playsound
+comtypes
+pycaw
+cvzone
+screen-brightness-control
